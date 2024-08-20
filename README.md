@@ -23,9 +23,6 @@ src="https://github.com/li150/li150/raw/main/images/Hi.gif" height="32" /></h1>
 <a href="mailto:liyongcong296@gmail.com">
   <img src="https://github.com/li150/li150/raw/main/images/social-gmail.svg" height="40" />
 </a>
-<a href="javascript:;">
-  <img src="https://github.com/li150/li150/raw/main/images/social-leetcode.svg" height="40" />
-</a>
 
 <br />
 <br />
