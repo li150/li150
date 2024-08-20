@@ -20,9 +20,6 @@ src="https://github.com/li150/li150/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
 
-<a href="javascript:;" alt="biboom's blog" target="_blank">
-  <img src="https://github.com/li150/li150/raw/main/images/social-blog.svg" height="40" />
-</a>
 <a href="mailto:liyongcong296@gmail.com">
   <img src="https://github.com/li150/li150/raw/main/images/social-gmail.svg" height="40" />
 </a>
