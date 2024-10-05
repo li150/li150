@@ -39,7 +39,7 @@ src="https://github.com/li150/li150/raw/main/images/Hi.gif" height="32" /></h1>
   <br/> 配图扫描。
 - <a href='https://chromewebstore.google.com/detail/%E4%B8%89%E7%AC%94%E5%88%92%E7%BA%BF/enindkdbeijhhoeedocjehpflljhhoho' target='_blank'>三笔划线@v1.1.15</a> - 2024-08-13
   <br/> 三笔划线。
-  - <a href='https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah' target='_blank'>天命打工人@v1.0.1</a> - 2024-08-13
+- <a href='https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah' target='_blank'>天命打工人@v1.0.1</a> - 2024-08-13
   <br/> 天命打工人。
 
 <!-- github_plugin_end -->
