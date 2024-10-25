@@ -41,6 +41,8 @@ src="https://github.com/li150/li150/raw/main/images/Hi.gif" height="32" /></h1>
   <br/> 三笔划线。
 - <a href='https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah' target='_blank'>天命打工人@v1.0.1</a> - 2024-08-13
   <br/> 天命打工人。
+- <a href='https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa' target='_blank'>Ranking Tabs@v1.0.0</a> - 2024-10-13
+  <br/> Ranking Tabs。
 
 <!-- github_plugin_end -->
 
