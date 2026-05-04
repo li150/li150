@@ -27,7 +27,9 @@ Going global with my products.
 - <a href='https://chromewebstore.google.com/detail/%E4%B8%89%E7%AC%94%E5%88%92%E7%BA%BF/enindkdbeijhhoeedocjehpflljhhoho' target='_blank'>Three stroke lines@v1.1.15</a> - 2024-02-28
   <br/> Three stroke lines.
 - <a href='https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa' target='_blank'>Ranking Tabs@v1.0.0</a> - 2024-10-13
-  <br/> Ranking Tabs。
+  <br/> Ranking Tabs.
+- <a href='https://leximixer.com' target='_blank'>leximixer@v1.1.0</a> - 2026-04-27
+  <br/> leximixer.
 
 <!-- github_plugin_end -->
 
