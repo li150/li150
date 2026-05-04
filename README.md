@@ -1,21 +1,6 @@
 ## Hi there 👋
 
-<!--
-**li150/li150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">你好，我是 <a href="javascript:;" target="_blank">Biboom</a> <img
+<h1 align="center">Hello, I am. <a href="javascript:;" target="_blank">Biboom</a> <img
 src="https://github.com/li150/li150/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
@@ -27,26 +12,26 @@ src="https://github.com/li150/li150/raw/main/images/Hi.gif" height="32" /></h1>
 <br />
 <br />
 
-嗨，我是Biboom，来自中国🇨🇳.的前端工程师致力于成为一名全栈工程师。
+Hi, I'm Biboom 🇨🇳
+From frontend to full-stack
+Going global with my products.
 
 <a href="#"><img align="right" src="https://github.com/li150/li150/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 <!-- github_plugin_start -->
 
-## ⛳️ 项目发布
+## ⛳️ Project release
 
 - <a href='https://github.com/li150/mapping_scanning/releases/tag/v1.0.1' target='_blank'>mapping_scanning@v1.0.1</a> - 2024-08-13
-  <br/> 配图扫描。
-- <a href='https://chromewebstore.google.com/detail/%E4%B8%89%E7%AC%94%E5%88%92%E7%BA%BF/enindkdbeijhhoeedocjehpflljhhoho' target='_blank'>三笔划线@v1.1.15</a> - 2024-02-28
-  <br/> 三笔划线。
-- <a href='https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah' target='_blank'>天命打工人@v1.0.1</a> - 2024-09-04
-  <br/> 天命打工人。
+  <br/> Map scanning.
+- <a href='https://chromewebstore.google.com/detail/%E4%B8%89%E7%AC%94%E5%88%92%E7%BA%BF/enindkdbeijhhoeedocjehpflljhhoho' target='_blank'>Three stroke lines@v1.1.15</a> - 2024-02-28
+  <br/> Three stroke lines.
 - <a href='https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa' target='_blank'>Ranking Tabs@v1.0.0</a> - 2024-10-13
   <br/> Ranking Tabs。
 
 <!-- github_plugin_end -->
 
-**语言和工具:**
+**Language and tools:**
 
 <p>
 <img src="https://github.com/li150/li150/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
