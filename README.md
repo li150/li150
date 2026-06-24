@@ -30,6 +30,8 @@ Going global with my products.
   <br/> Ranking Tabs.
 - <a href='https://leximixer.com' target='_blank'>leximixer@v1.1.0</a> - 2026-04-27
   <br/> leximixer.
+- <a href='https://chromewebstore.google.com/detail/x-%E8%AF%84%E8%AE%BA%E6%8A%A4%E7%9B%BE/eeijfaokacdmmajcjidphdefpjpocnkk?hl=zh-CN&utm_source=ext_sidebar' target='_blank'>X 评论护盾@v1.0.1</a> - 2026-04-27
+  <br/> X 评论护盾.
 
 <!-- github_plugin_end -->
 
