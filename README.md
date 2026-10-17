@@ -32,7 +32,7 @@ Going global with my products.
   <br/> Turn any article into AI vocabulary extraction, sentence practice, and syntax analysis so you can understand meaning faster and express yourself better.
 - <a href='https://chromewebstore.google.com/detail/x-%E8%AF%84%E8%AE%BA%E6%8A%A4%E7%9B%BE/eeijfaokacdmmajcjidphdefpjpocnkk?hl=zh-CN&utm_source=ext_sidebar' target='_blank'>X 评论护盾</a> - 2026-06-16
   <br/> 本地采集 X 帖子评论，基于本地规则识别风险评论，并支持单条屏蔽、举报和导出。
-- <a href='https://imagetoimageai.online' target='_blank'>IMAGE TOIMAGE AI</a> - 2026-09-26
+- <a href='https://imagetoimageai.online' target='_blank'>Image To Image AI</a> - 2026-09-26
   <br/> Sharpen blurry shots with the AI image upscaler, retouch portrait photos or colorize black and white images — one click each, no editing skills, no watermark on the first pass.
 
 <!-- github_plugin_end -->
