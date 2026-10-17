@@ -22,16 +22,16 @@ Going global with my products.
 
 ## ⛳️ Project release
 
-- <a href='https://github.com/li150/mapping_scanning/releases/tag/v1.0.1' target='_blank'>mapping_scanning@v1.0.1</a> - 2024-08-13
+- <a href='https://github.com/li150/mapping_scanning/releases/tag/v1.0.1' target='_blank'>mapping_scanning</a> - 2024-08-13
   <br/> Map scanning.
-- <a href='https://chromewebstore.google.com/detail/%E4%B8%89%E7%AC%94%E5%88%92%E7%BA%BF/enindkdbeijhhoeedocjehpflljhhoho' target='_blank'>Three stroke lines@v1.1.15</a> - 2024-02-28
-  <br/> Three stroke lines.
-- <a href='https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa' target='_blank'>Ranking Tabs@v1.0.0</a> - 2024-10-13
-  <br/> Ranking Tabs.
-- <a href='https://leximixer.com' target='_blank'>leximixer@v1.1.0</a> - 2026-04-27
-  <br/> leximixer.
-- <a href='https://chromewebstore.google.com/detail/x-%E8%AF%84%E8%AE%BA%E6%8A%A4%E7%9B%BE/eeijfaokacdmmajcjidphdefpjpocnkk?hl=zh-CN&utm_source=ext_sidebar' target='_blank'>X 评论护盾@v1.0.1</a> - 2026-06-16
-  <br/> X 评论护盾.
+- <a href='https://chromewebstore.google.com/detail/%E4%B8%89%E7%AC%94%E5%88%92%E7%BA%BF/enindkdbeijhhoeedocjehpflljhhoho' target='_blank'>Three stroke lines</a> - 2024-02-28
+  <br/> Underline and record ideas while reading, and constantly capture the flash of inspiration.
+- <a href='https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa' target='_blank'>Ranking Tabs</a> - 2024-10-13
+  <br/> The list of historical browsing times of tab pages.
+- <a href='https://leximixer.com' target='_blank'>leximixer</a> - 2026-04-27
+  <br/> Turn any article into AI vocabulary extraction, sentence practice, and syntax analysis so you can understand meaning faster and express yourself better.
+- <a href='https://chromewebstore.google.com/detail/x-%E8%AF%84%E8%AE%BA%E6%8A%A4%E7%9B%BE/eeijfaokacdmmajcjidphdefpjpocnkk?hl=zh-CN&utm_source=ext_sidebar' target='_blank'>X 评论护盾</a> - 2026-06-16
+  <br/> 本地采集 X 帖子评论，基于本地规则识别风险评论，并支持单条屏蔽、举报和导出。
 
 <!-- github_plugin_end -->
 
